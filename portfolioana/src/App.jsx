@@ -24,7 +24,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <Routes>
-        <Route path='/' element={<><Header /><Section1 /><Section2/><Section3/><Sectionwhite/><Section4/><Section5/><Footer/></>}/>
+        <Route path='/' element={<><Header/><Section1/><Section2/><Section3/><Sectionwhite/><Section4/><Section5/><Footer/></>}/>
         <Route path='/formulario' element={<><Formulario/><Footer/></>}/>
         <Route path='/skill' element={<><Skill/><Footer/></>}/>
       </Routes>
