@@ -10,15 +10,15 @@ const Section1 = () => {
             <div>
                 <div className="direcciones">
                     <i className="bi bi-linkedin iconodirec"></i>
-                    <h2 className="direc">www.linkedin.com/in/analauralandoni</h2>
+                    <a href="www.linkedin.com/in/analauralandoni" className="direc">www.linkedin.com/in/analauralandoni</a>
                 </div>
                 <div className="direcciones">
                     <i className="bi bi-github iconodirec"></i>
-                    <h2 className="direc">www.github.com/AnaLandoni</h2>
+                    <a href="www.github.com/AnaLandoni" className="direc">www.github.com/AnaLandoni</a>
                 </div>
                 <div className="direcciones">
                     <i className="bi bi-instagram iconodirec"></i>
-                    <h2 className="direc">www.instagram.com/ani_landoni</h2>
+                    <a href="www.instagram.com/ani_landoni" className="direc">www.instagram.com/ani_landoni</a>
                 </div>
             </div> 
            
